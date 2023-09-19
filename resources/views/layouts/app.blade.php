@@ -19,6 +19,6 @@
         <hr>
         @yield('contenido')
         <hr>
-
+        {{-- <hr>   --}}
     </body>
 </html>    
